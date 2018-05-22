@@ -1,4 +1,4 @@
-terraform_config/gce/credentials.json
-terraform_config/gce/.terraform/
-terraform_config/gce/terraform.tfstate
-terraform_config/gce/terraform.tfstate.backup
+gce/credentials.json
+gce/.terraform/
+gce/terraform.tfstate
+gce/terraform.tfstate.backup
